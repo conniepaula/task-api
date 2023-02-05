@@ -1,16 +1,25 @@
 {
-    "name": "nodejs-fundamentals",
-    "type": "module",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "dev": "node --watch src/server.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "csv-parse": "^5.3.4"
-    }
+  "name": "nodejs-fundamentals",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conniepaula/task-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/conniepaula/task-api/issues"
+  },
+  "homepage": "https://github.com/conniepaula/task-api#readme",
+  "description": ""
 }
